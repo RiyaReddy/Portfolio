@@ -1,0 +1,9 @@
+C:\Users\Windows\source\repos\Portfolio\Portfolio\bin\Portfolio.dll.config
+C:\Users\Windows\source\repos\Portfolio\Portfolio\bin\Portfolio.dll
+C:\Users\Windows\source\repos\Portfolio\Portfolio\bin\Portfolio.pdb
+C:\Users\Windows\source\repos\Portfolio\Portfolio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Windows\source\repos\Portfolio\Portfolio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Windows\source\repos\Portfolio\Portfolio\obj\Debug\Portfolio.csprojResolveAssemblyReference.cache
+C:\Users\Windows\source\repos\Portfolio\Portfolio\obj\Debug\Portfolio.csproj.CoreCompileInputs.cache
+C:\Users\Windows\source\repos\Portfolio\Portfolio\obj\Debug\Portfolio.dll
+C:\Users\Windows\source\repos\Portfolio\Portfolio\obj\Debug\Portfolio.pdb
